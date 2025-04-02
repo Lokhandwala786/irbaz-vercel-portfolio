@@ -103,7 +103,7 @@ function App() {
                             <span className="typewritercursor">|</span>
                         </p>
                         <p className="titledesc">
-                            A recent Computer Science graduate with an MSc in Advanced Computer Science fromUniverdity of Leicester(completed
+                            A recent Computer Science graduate with an MSc in Advanced Computer Science from University of Leicester(completed
                             in September 2025).         <p>
                                 Seeking junior or graduate roles to leverage skills in
                                 Programming, Cloud Computing, Cybersecurity, Machine Learning, Reinforced Learning, IoT, Penetration Testing,
